@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mansi05041/stats_preview.github.io)
-- Live Site URL: [Add live site URL here](https://mansi05041.github.io/stats_preview.github.io/)
+- Solution URL: [https://github.com/mansi05041/stats_preview.github.io]
+- Live Site URL: [https://mansi05041.github.io/stats_preview.github.io/]
 
 ## My process
 
@@ -63,8 +63,8 @@ Much work is there in Mobile responsive Area
 
 ### Useful resources
 
-- [resource 1](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me for understanding the media querry.
-- [resource 2](https://grid.layoutit.com/) - This helped me in CSS Grid . It provides code according to your need.
+- [w3schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me for understanding the media querry.
+- [grid layout](https://grid.layoutit.com/) - This helped me in CSS Grid . It provides code according to your need.
 
 ## Author
 
